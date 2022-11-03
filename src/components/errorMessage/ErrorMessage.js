@@ -1,8 +1,8 @@
-import img from './error.gif';
+import imgPic from './error.gif';
 
 const ErrorMessage = () => {
 	return (
-		<img style={{ display: 'block', width: "250px", height: "250px",objectFit: 'contain', margin: "0 auto"}} scr={img } alt="Error"/>
+		<img style={{ display: 'block', width: "250px", height: "250px",objectFit: 'contain', margin: "0 auto"}} scr={imgPic} alt="Error"/>
 	)
 }
 
