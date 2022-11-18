@@ -1,6 +1,10 @@
-# Marvel Heroes React App
+# Marvel - приложение о героях
 
-## Page about Marvel heroes
+Реализовано:
+- показ рандомного персонажа при загрузке страницы, либо по нажатию на кнопку;
+- выбор персонажа и показ информации о нем;
+- загрузка дополнительных персонажей по нажатию кнопки загрузить;
+- переход на страницу комиксов;
+- выбор комикса и отображение информации
 
-You can choose any character to know more about it. 
-Every time app shows another random character.
+Стек: React, API, JavaScript
